@@ -2,13 +2,17 @@
 
 #### Required Libraries :
 
-`(if in Jupyter Notebook)
+```
+(if in Jupyter Notebook)
 !pip install numpy pandas
-!pip install lxml`
+!pip install lxml
+```
 
-`(if on Windows, in Windows Shell)
+```
+(if on Windows, in Windows Shell)
 pip install numpy pandas
-pip install lxml`
+pip install lxml
+```
 
 
 #### Objectives:
