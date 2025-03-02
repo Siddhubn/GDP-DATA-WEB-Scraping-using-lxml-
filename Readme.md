@@ -19,9 +19,9 @@ pip install lxml`
 
 > URL used : https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
 
-#### Top 15 Leading Companies - [Leading Economies](./Leading Economies.csv)
+#### Top 15 Leading Companies - [Leading Economies](./Leading_Economies.csv)
 
 #### Top 5 Leading Companies - [Top 5 Leading Economies](./top5.csv)
 
 #### License:
-This Py file licensed under [MIT](./MIT License) License
+This Py file licensed under [MIT](./LICENSE) License.
